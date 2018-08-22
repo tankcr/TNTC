@@ -1,12 +1,23 @@
-/projecte_addEMC OD Dirt 1
-/projecte_addEMC OD minecraft:netherrack
-/projecte_addEMC OD minecraft:nether_brick
-/projecte_addEMC OD minecraft:nether_brick_stairs
-/projecte_addEMC OD minecraft:quartz
-/projecte_addEMC OD granite
-Granit
-Gravel
-Glowstone
+/projecte setEMC minecraft:dirt 1
+/projecte setEMC minecraft:grass 1
+/projecte setEMC minecraft:stone_slab 3 5
+/projecte setEMC minecraft:stone_slab 1 10
+/projecte setEMC minecraft:stone_slab 0 10
+/projecte setEMC minecraft:stone_slab 5 15
+/projecte setEMC minecraft:stone_slab 6 20
+/projecte setEMC minecraft:wooden_slab 1 5
+/projecte setEMC minecraft:wooden_slab 0 5
+/projecte setEMC minecraft:netherrack 10
+/projecte setEMC minecraft:nether_brick 15
+/projecte setEMC minecraft:nether_brick_stairs 25
+/projecte setEMC minecraft:quartz 35
+/projecte setEMC minecraft:stone 1 2
+/projecte setEMC minecraft:stone 2 5
+/projecte setEMC minecraft:stone 5 4
+/projecte setEMC minecraft:stone 6 8
+/projecte setEMC minecraft:gravel 2
+/projecte setEMC minecraft:glowstone 1536
+/projecte setEMC minecraft:glowstone_dust 384
 Andesite
 Sand
 Diorite
